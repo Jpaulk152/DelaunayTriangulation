@@ -1,0 +1,2 @@
+1) Install matplotlib if you do not have it installed 
+	python -c "import matplotlib"
